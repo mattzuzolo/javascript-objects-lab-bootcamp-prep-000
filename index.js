@@ -3,12 +3,12 @@ var recipes = {
 };
 
 
-// function updateObjectWithKeyAndValue (obj, key, value) {
+function updateObjectWithKeyAndValue (obj, key, value) {
   
   
-//   return Object.assign( {}, { [key]: value}   );
+  return Object.assign( {}, { [key]: value}   );
   
-// }
+}
 
 
 function updateObjectWithKeyAndValue(object, key, value) {
