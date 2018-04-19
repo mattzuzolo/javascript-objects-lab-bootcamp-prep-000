@@ -3,7 +3,6 @@ var recipes = {
 };
 
 
-updates destructively
 function updateObjectWithKeyAndValue (obj, key, value) {
   
   obj.key = value;
